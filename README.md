@@ -55,15 +55,3 @@ A Java-based desktop application with a graphical user interface (GUI) for effic
 2. **User Login:** Submit requests, upload documents, and view request status.
 3. **Officer Login:** Manage user requests and provide feedback.
 
-## Contributing
-Contributions are welcome! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch for your feature/bug fix.
-3. Commit your changes and push the branch.
-4. Submit a pull request for review.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Contact
-For questions or support, please contact [your email or GitHub profile link].
